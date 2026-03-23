@@ -120,3 +120,7 @@ This project is intentionally simple in scope but strong in signal. It demonstra
 ## Notes for reviewers
 
 The dataset is synthetic and intentionally small for readability. The main value of the repo is the design approach and the performance-minded implementation choices rather than domain-specific financial complexity.
+
+## Results
+
+In testing, the C++ implementation achieved significantly lower runtime compared to Python, highlighting the trade-offs between development speed and execution performance.
