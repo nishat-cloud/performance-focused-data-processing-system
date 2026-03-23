@@ -30,7 +30,8 @@ Although this is a compact project, the same ideas show up in larger production 
   - anomaly counts based on price jumps
 - Benchmarks Python and C++ runtimes on the same dataset
 - Writes results to JSON for downstream use
-
+- Simulated real-time data streaming to mimic live market data ingestion
+  
 ## Repository Structure
 
 ```
